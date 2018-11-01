@@ -1,6 +1,19 @@
 # it-is-not-a-joke
 A collection of funny portrays of IT/programming/hacking in movies
 
+## Star Trek: Discovery:
+
+### Season 1 episode 3: Context is for Kings
+Equations that might be some quantum astrophysics or biochemistry or even gene expression.
+
+![](images/startrek_context_is_for_kings.png)
+
+## Brooklyn Nine-Nine:
+
+### Season 4 episode 22: Crime & Punishment
+Back hacking to track money transfer
+
+![](images/Brooklyn_99_bank_hacking.png)
 
 ## Elementary:
 
@@ -17,10 +30,3 @@ Software used in automotive cars
 Code that shows on your screen when your WiFi is tracked
 
 ![](images/Elementary_murder_ex_machina_tracking.png)
-
-## Star Trek: Discovery:
-
-### Season 1 episode 3: Context is for Kings
-Equations that might be some quantum astrophysics or biochemistry or even gene expression.
-
-![](images/startrek_context_is_for_kings.png)
