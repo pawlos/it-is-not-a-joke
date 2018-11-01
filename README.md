@@ -17,3 +17,10 @@ Software used in automotive cars
 Code that shows on your screen when your WiFi is tracked
 
 ![](images/Elementary_murder_ex_machina_tracking.png)
+
+## Star Trek: Discovery:
+
+### Season 1 episode 3: Context is for Kings
+Equations that might be some quantum astrophysics or biochemistry or even gene expression.
+
+![](images/startrek_context_is_for_kings.png)
