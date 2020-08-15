@@ -1,6 +1,11 @@
 # it-is-not-a-joke
 A collection of funny portrays of IT/programming/hacking in movies
 
+## Skyscraper
+Hacking building's control center.
+
+![](images/skyscraper.png)
+
 ## Star Trek: Discovery:
 
 ### Season 1 episode 3: Context is for Kings
