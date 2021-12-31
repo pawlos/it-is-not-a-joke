@@ -35,3 +35,11 @@ Software used in automotive cars
 Code that shows on your screen when your WiFi is tracked
 
 ![](images/Elementary_murder_ex_machina_tracking.png)
+
+
+## Psych
+
+### Season 5 episode 9: One, Maybe Two, Ways out
+Erasing someone from the "grid".
+
+![](images/Psych_5x09_one_maybe_two_ways_out.png)
