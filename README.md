@@ -1,6 +1,14 @@
 # it-is-not-a-joke
 A collection of funny portrays of IT/programming/hacking in movies
 
+## Johnny English Strikes Again
+Software for Exo-Skeleton
+
+![](images/johnny_english_strikes_again.png)
+
+In the center the software appears to be asking to enter a number.
+On the right it appears to be a source code from android kernel - [groups.c](https://android.googlesource.com/kernel/msm/+/android-msm-shiner-3.18-nougat-dr-wear-release/kernel/groups.c#13)
+
 ## Skyscraper
 Hacking building's control center.
 
