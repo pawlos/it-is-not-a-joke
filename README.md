@@ -14,6 +14,8 @@ Hacking building's control center.
 
 ![](images/skyscraper.png)
 
+This appears to be a GDB session of a `bypassbatchcmd` program. Setting a breakpoint on `func` (`0x8048456`) and running the program with a payload of 116 letter 'A'.
+
 ## Star Trek: Discovery:
 
 ### Season 1 episode 3: Context is for Kings
