@@ -23,6 +23,8 @@ Equations that might be some quantum astrophysics or biochemistry or even gene e
 
 ![](images/startrek_context_is_for_kings.png)
 
+This appearst to be a list of Windows exported functions signatures with entries like `FreeLibrary`, `GetFileAttributesExW` and `GetModuleHandleA`.
+
 ## Brooklyn Nine-Nine:
 
 ### Season 4 episode 22: Crime & Punishment
