@@ -41,6 +41,10 @@ Artifficial intelligence named Bella.
 
 ![](images/Elementary_bella.png)
 
+The code in the back appears to be a [BodyTracker.cpp](https://github.com/google/liquidfun/blob/master/liquidfun/Box2D/Unittests/BodyTracker.cpp) file from liquidfun project - 2D physics engine.
+
+On the front it appears to be a calculator program written in C++ demonstraiting the OOP concept - inheritance.
+
 ### Season 4 episode 9: Murder Ex Machina
 Software used in automotive cars
 
