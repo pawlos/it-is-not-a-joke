@@ -66,3 +66,5 @@ It appears to be a program that operates on a linked list.
 Erasing someone from the "grid".
 
 ![](images/Psych_5x09_one_maybe_two_ways_out.png)
+
+It appears to be a program that operates on a linked list.
