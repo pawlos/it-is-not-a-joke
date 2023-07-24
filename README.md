@@ -57,7 +57,7 @@ Code that shows on your screen when your WiFi is tracked.
 
 ![](images/Elementary_murder_ex_machina_tracking.png)
 
-It appears to be a program that operated on a linked list.
+It appears to be a program that operates on a linked list.
 
 
 ## Psych
