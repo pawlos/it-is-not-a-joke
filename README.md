@@ -75,5 +75,3 @@ It appears to be a program that operates on a linked list.
 Searching the database
 
 ![](images/Jack_Ryan.jpg)
-
-It appears to be a program that operates on a linked list.
