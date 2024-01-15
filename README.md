@@ -68,3 +68,10 @@ Erasing someone from the "grid".
 ![](images/Psych_5x09_one_maybe_two_ways_out.png)
 
 It appears to be a program that operates on a linked list.
+
+## Tom Clancy's Jack Ryan
+
+### Season 1 episode 2: French Connection
+Searching the database
+
+![](images/Jack_Ryan.jpg)
