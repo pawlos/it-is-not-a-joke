@@ -75,3 +75,11 @@ It appears to be a program that operates on a linked list.
 Searching the database
 
 ![](images/Jack_Ryan.jpg)
+
+
+## Castle
+
+### Season 7 episode 16: The Wrong Stuff
+Software for controlling Mars mission. Searching for security breach.
+
+![](images/castle_7x16_the_wrong_stuff.png)
