@@ -91,3 +91,5 @@ Software for controlling Mars mission. Searching for security breach.
 Shady, hackerish software connected to WiFi and Bluetooth taking over electornic equipement.
 
 ![](images/cross_masks_1x04.png)
+
+It appears to be a `bitcon.php` code: https://github.com/dryphp/bitcoin.php/blob/master/src/bitcoin.inc#L288
