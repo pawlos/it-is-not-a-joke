@@ -83,3 +83,11 @@ Searching the database
 Software for controlling Mars mission. Searching for security breach.
 
 ![](images/castle_7x16_the_wrong_stuff.png)
+
+
+## Cross
+
+### Season 1 episode 4: Masks
+Shady, hackerish software connected to WiFi and Bluetooth taking over electornic equipement.
+
+![](images/cross_masks_1x04.png)
