@@ -93,3 +93,10 @@ Shady, hacker-ish software connected to WiFi and Bluetooth taking over electroni
 ![](images/cross_masks_1x04.png)
 
 It appears to be a `bitcoin.php` code: https://github.com/dryphp/bitcoin.php/blob/master/src/bitcoin.inc#L288
+
+## Madness
+Looks like some python code that is used to access hidden features of Stock app.
+
+### Ep 7: DNA
+
+![](images/Madness_e7_DNA.png)
