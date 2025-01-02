@@ -23,7 +23,7 @@ Equations that might be some quantum astrophysics or biochemistry or even gene e
 
 ![](images/startrek_context_is_for_kings.png)
 
-This appearst to be a list of Windows exported functions signatures with entries like `FreeLibrary`, `GetFileAttributesExW` and `GetModuleHandleA`.
+This appears to be a list of Windows exported functions signatures with entries like `FreeLibrary`, `GetFileAttributesExW` and `GetModuleHandleA`.
 
 ## Brooklyn Nine-Nine:
 
@@ -32,12 +32,12 @@ Back hacking to track money transfer
 
 ![](images/Brooklyn_99_bank_hacking.png)
 
-This appaers to be be Swift programming langauge and an example of using JSON converter into an object.
+This appears to be be Swift programming language and an example of using JSON converter into an object.
 
 ## Elementary:
 
 ### Season 3 episode 4: Bella
-Artifficial intelligence named Bella.
+Artificial intelligence named Bella.
 
 ![](images/Elementary_bella.png)
 
@@ -50,7 +50,7 @@ Software used in automotive cars
 
 ![](images/Elementary_murder_ex_machina.png)
 
-On the bottom it appears to be again the [BodyTrackcer.cpp](https://github.com/google/liquidfun/blob/master/liquidfun/Box2D/Unittests/BodyTracker.cpp#L84C16-L84C16) BeginTracking method.
+On the bottom it appears to be again the [BodyTracker.cpp](https://github.com/google/liquidfun/blob/master/liquidfun/Box2D/Unittests/BodyTracker.cpp#L84C16-L84C16) BeginTracking method.
 
 
 Code that shows on your screen when your WiFi is tracked.
@@ -88,8 +88,8 @@ Software for controlling Mars mission. Searching for security breach.
 ## Cross
 
 ### Season 1 episode 4: Masks
-Shady, hackerish software connected to WiFi and Bluetooth taking over electornic equipement.
+Shady, hacker-ish software connected to WiFi and Bluetooth taking over electronic equipment.
 
 ![](images/cross_masks_1x04.png)
 
-It appears to be a `bitcon.php` code: https://github.com/dryphp/bitcoin.php/blob/master/src/bitcoin.inc#L288
+It appears to be a `bitcoin.php` code: https://github.com/dryphp/bitcoin.php/blob/master/src/bitcoin.inc#L288
