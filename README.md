@@ -95,8 +95,16 @@ Shady, hacker-ish software connected to WiFi and Bluetooth taking over electroni
 It appears to be a `bitcoin.php` code: https://github.com/dryphp/bitcoin.php/blob/master/src/bitcoin.inc#L288
 
 ## Madness
-Looks like some python code that is used to access hidden features of Stock app.
 
 ### Ep 7: DNA
+Looks like some python code that is used to access hidden features of Stock app.
 
 ![](images/Madness_e7_DNA.png)
+
+
+## Missing You
+
+### Episode 1 - Every breath you take
+Car hacking software.
+
+![](images/missing-you_car_hacking-e1.png)
