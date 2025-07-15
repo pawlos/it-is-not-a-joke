@@ -118,3 +118,7 @@ Hacking a camera system
 ![](images/obliterated_e8.png)
 
 It appears to be some Python code on the bottom left with some TicketStore related string on the right hand side.
+
+# Head of state
+
+![](images/head_of_state.png)
