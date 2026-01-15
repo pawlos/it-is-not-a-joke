@@ -119,6 +119,14 @@ Hacking a camera system
 
 It appears to be some Python code on the bottom left with some TicketStore related string on the right hand side.
 
-# Head of state
+## Head of state
 
 ![](images/head_of_state.png)
+
+## Slow Horses
+
+### Episode 6 - Circus
+
+![](images/slow-horses_5x6.png)
+
+Software that took down MI5 network.
