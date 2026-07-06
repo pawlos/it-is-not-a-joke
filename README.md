@@ -130,3 +130,11 @@ It appears to be some Python code on the bottom left with some TicketStore relat
 ![](images/slow-horses_5x6.png)
 
 Software that took down MI5 network.
+
+## Toy Story 5
+
+Lilypad tries to locate Woody and Buzz.
+
+![](images/toy_story_5.jpg)
+
+The code is a python script. On the left `get_ip_address` takes a url and resolves it via `gethostbyname` - valid, idiomatic Python with proper `socket.gaierror` handling. On the right `launch_gps_tracker` runs `traceutils` (imported from the fictional `eggman.pondnet`) through `subprocess.run`. Unusually for this list, the code itself is real and would run - only the premise is make-believe, since an IP address won't actually get you GPS coordinates.
